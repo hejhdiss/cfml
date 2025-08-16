@@ -19,7 +19,7 @@ CFML is a  library for parsing, manipulating, searching, and writing a very comp
 
 ## Screenshot
 
-![CFML Example](https://raw.githubusercontent.com/hejhdiss/cfml/main/main.png)
+![CFML Example](https://github.com/hejhdiss/cfml/blob/main/image.png)
 
 ---
 
